@@ -48,3 +48,4 @@ function removeElementFromEndOfArray(array)
 {
   array.slide(array.length-1)
 }
+
