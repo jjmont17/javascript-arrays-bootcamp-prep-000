@@ -43,4 +43,7 @@ function destructivelyRemoveElementFromEndOfArray(array)
   array.pop()
 }
 
-function 
+function removeElementFromEndOfArray(array)
+{
+  array.slide(array.length-1)
+}
