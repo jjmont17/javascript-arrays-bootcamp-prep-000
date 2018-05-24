@@ -1,1 +1,1 @@
-var chocolate bars - [snickers, hundred grans, kitkat, skittles]
+var chocolate bars = [snickers, hundred grans, kitkat, skittles]
