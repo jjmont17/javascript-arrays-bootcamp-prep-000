@@ -1,4 +1,7 @@
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
 
-addElementToEndOfArray(array)
+function addElementToEndOfArray(array)
+{
+  
+}
 
